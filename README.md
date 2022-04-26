@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Research Oriented Computer Science Student. Interested in Computer Security, Operating System Hardening, and pen-testing. Team player, always seeking opportunities to increase efficiency. Thrives on new challenges, actively seeking them, and takes pride in seeing them through to completion.
+I am Research Oriented CS Student @ VIT. Exploring Salesforce CRM and Computer Defense Security. Thrives on new challenges, actively seeking them, and takes pride in seeing them through to completion.
 
-Here you will mostly find my **projects**.
+Here you will mostly find my **Project Source Codes** and **Academic Resources**.
 
 Interests -
 
