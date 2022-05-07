@@ -17,9 +17,9 @@ I work with **JAVA, Python3, C++/C**. But can work with anything that relates to
 
 ---
 
-#### :key: GET MY [PGP PUBLIC KEY HERE](https://kalrayatin.github.io/pubkey) or [HERE](https://github.com/kalrayatin/Assets/blob/master/yatinkalra.github.io/Public%20Keys/Yatin%20Kalra_0xCCF186FF_public.asc)
+#### :key: GET MY [PGP PUBLIC KEY HERE](https://kalrayatin.github.io/pubkey) or [HERE](https://github.com/kalrayatin/Assets/blob/master/kalrayatin.github.io/Public%20Keys/Yatin%20Kalra_0xCCF186FF_public.asc)
 
 I essential documents with this key pair, and you can verify them with the same.
 You can also use the same key if you want to communicate with me.
 
-#### :speech_balloon: You can also connect with me on [LinkedIN](https://linkedin.com/in/yatinkalra) or [Mail](mailto:kalra.y@icloud.com)
+#### :speech_balloon: You can also connect with me on [LinkedIN](https://www.linkedin.com/in/yatin-kalra/) or [Mail](mailto:kalra.y@icloud.com)
